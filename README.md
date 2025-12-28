@@ -8,7 +8,7 @@
 A sophisticated web application that automates resume screening by analyzing compatibility between candidate resumes and job descriptions using intelligent skill matching algorithms.
 
 ## 🌐 Live Demo
-**Experience the application:** [resume-analyzer.streamlit.app](https://resume-analyzer.streamlit.app)
+**Experience the application:** [resume-analyzer-1.streamlit.app](https://resume-analyzer-1.streamlit.app)
 
 ## 📊 Demo Video
 [![Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtube.com/shorts/VIDEO_ID)
